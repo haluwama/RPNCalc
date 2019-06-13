@@ -2,7 +2,7 @@
 
 A calculator that converts an infix equation to postfix and then calculates it. It has a basic view UI.
 
-![Image of app](https://github.com/haluwama/RPNCalc/img/screen.png)
+![Image of app](https://github.com/haluwama/RPNCalc/blob/master/img/screen.png)
 
 ## Attenion
 
